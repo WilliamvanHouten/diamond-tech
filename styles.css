@@ -1,0 +1,13 @@
+.logo{
+    width: 40px;
+    height: 40px;
+}
+
+
+.btn{
+    background: linear-gradient(45deg, rgba(249, 80, 108, 0.7), rgba(44, 216, 255, 0.7), rgba(251, 255, 171, 0.7), rgba(164, 74, 101, 0.7), rgba(52,219,216,.7)) 0 0 / 1000% no-repeat, 0 0 / cover no-repeat;
+	}
+
+.card{
+    color: linear-gradient(45deg, rgba(249, 80, 108, 0.7), rgba(44, 216, 255, 0.7), rgba(251, 255, 171, 0.7), rgba(164, 74, 101, 0.7), rgba(52,219,216,.7)) 0 0 / 1000% no-repeat, 0 0 / cover no-repeat; 
+}
